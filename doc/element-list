@@ -1,0 +1,11 @@
+by.bsuir.wt.lab_2
+by.bsuir.wt.lab_2.dao
+by.bsuir.wt.lab_2.dao.impl
+by.bsuir.wt.lab_2.entity
+by.bsuir.wt.lab_2.entity.criteria
+by.bsuir.wt.lab_2.factory
+by.bsuir.wt.lab_2.factory.impl
+by.bsuir.wt.lab_2.service
+by.bsuir.wt.lab_2.service.impl
+by.bsuir.wt.lab_2.service.validation
+by.bsuir.wt.lab_2.util
